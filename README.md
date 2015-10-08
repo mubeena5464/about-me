@@ -14,4 +14,8 @@
 * SEP11
 
 Things to learn in SEP 11
-*
+
+* Git and Github
+* Web Design
+* DATA
+* 3D Modeling
