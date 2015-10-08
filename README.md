@@ -1,7 +1,6 @@
-Mubeen Alam
+_Mubeen Alam_
 HSTAT
 PERIODS
-1
 2
 3
 4
