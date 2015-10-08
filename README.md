@@ -13,7 +13,7 @@
 * Lunch
 * SEP11
 
-Things to learn in SEP 11
+[Things to learn in SEP 11](https://sites.google.com/a/hstat.org/11sep1516/)
 
 * Git and Github
 * Web Design
