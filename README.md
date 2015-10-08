@@ -1,15 +1,7 @@
-**_Mubeen Alam_**
+#_Mubeen Alam_
 ---
-**HSTAT**
+###HSTAT
 
 
 ####PERIODS
 
-*1
-*2
-*3
-*4
-*5
-*6
-*7
-*8
