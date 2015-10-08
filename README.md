@@ -1,14 +1,17 @@
 #_Mubeen Alam_
 ---
-###HSTAT
+###HSTAT STUDENT
 
 
 ####PERIODS
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
-* 7
-* 8
+1. US History
+* Spanish 5
+* Physics
+* PRE- Calculas Honors
+* Physical Education
+* English 5
+* Lunch
+* SEP11
+
+Things to learn in SEP 11
+*
