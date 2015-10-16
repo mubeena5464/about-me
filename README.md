@@ -18,4 +18,6 @@
 * Git and Github
 * Web Design
 * DATA
-* 3D Modeling
+* 3D Modeling  
+
+reviewed by Jennifer 
